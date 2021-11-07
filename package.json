@@ -2,10 +2,10 @@
   "name": "crupapp",
   "version": "1.0.0",
   "description": "create, delete, update and read",
-  "main": "app.mjs",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.mjs"
+    "start": "node app.js"
   },
   "keywords": [
     "get",
