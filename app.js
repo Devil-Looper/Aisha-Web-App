@@ -65,6 +65,6 @@ app.delete('/user/:id', (req, res) => {
     }
 })
 
-app.listen(4000, () =>
+app.listen(port, () =>
     console.log(`Example app listening on port 4000! , ${port}`),
 );
